@@ -1,2 +1,2 @@
-# VsCodeDemo
-Simple Console application with VS Code
+# VsCode Demo
+Simple C# Console application running on OSX
